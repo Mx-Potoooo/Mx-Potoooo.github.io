@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Barney the Dinosaur</title>
+</head>
+<body style="background-color:lime;">
+
+<img src="Barney_the_Dinosaur.png" alt="Barney the Dinosaur">
+
+</body>
+</html>
